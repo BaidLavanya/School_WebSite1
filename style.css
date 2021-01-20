@@ -1,0 +1,56 @@
+body
+{
+    text-align: center;
+}
+#video{
+    color: #FFFFFF;
+    bottom: 0;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+.announcement{
+    background-color: lavender;
+}
+
+#marqueeStyle{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#campus_life{
+background-color:aquamarine;
+}
+
+#contact{
+    background-color:lightpink;
+}
+
+h2{
+    color: midnightblue;
+    font-weight:600;
+}
+
+img{
+  margin-left: 200px;  
+}
+
+h3{
+    font-size: 20px;
+    color: midnightblue;
+}
+
+h4{
+ 
+    color: midnightblue;
+}
+
+.contact_1{
+    color: midnightblue;
+}
+
+h5{
+    color: midnightblue;
+}
